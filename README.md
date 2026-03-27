@@ -135,10 +135,9 @@ The dataset includes detailed ride-level information such as:
 
 ## 📂 Project Files
 
-- 📒 [Python File](https://github.com/your-username/your-repo/blob/main/notebook.ipynb)
-- 🗄️ [SQL Queries](https://github.com/your-username/your-repo/blob/main/analysis_queries.sql)
-- 📊 [Power BI Dashboard](https://github.com/your-username/your-repo/blob/main/dashboard.pbix)
-- 🖼️ [Dashboard Image](https://github.com/your-username/your-repo/blob/main/dashboard.png)
+- 📒 [Python File](https://github.com/tanuj-choudhary-github/ola_data_analytics_project/blob/main/OLA_Python_FIle.ipynb)
+- 🗄️ [SQL Queries](https://github.com/tanuj-choudhary-github/ola_data_analytics_project/blob/main/ola_database_queries.sql)
+- 📊 [Power BI Dashboard](https://github.com/tanuj-choudhary-github/ola_data_analytics_project/blob/main/ola_data_analytics_dashboard.pbix)
 
 ---
 
